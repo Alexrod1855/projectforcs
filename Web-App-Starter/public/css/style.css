@@ -1,0 +1,16 @@
+.panel-default
+{
+  color:#FDFF72;
+  text-align: center;
+}
+.body
+{
+  background-color:#FFA500;
+}
+
+.col-md-6
+{
+  color:#FA8128;
+  width: 200;
+  height: 300
+}
